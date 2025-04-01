@@ -1,0 +1,14 @@
+list         - mutable
+string       - immutable
+tuple        - immutable
+dictionary   - mutable 
+
+⬇️ important topic 
+ For loop with else 
+
+ 
+~chapter 10 -
+  
+   Note - "instance attributes, take preference over class attributes during assignment & retrieval
+
+
