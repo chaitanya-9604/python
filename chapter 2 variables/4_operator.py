@@ -41,7 +41,7 @@ print("1 and 1"  ,  1 and 1 )
 
 print(not(False))
 
-''''not' operator is used for convert
+''' 'not' operator is used for convert
  TRUE to FALSE & FALSE to TURE''' 
 
 
